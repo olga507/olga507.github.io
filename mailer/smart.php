@@ -12,7 +12,7 @@ $mail->CharSet = 'utf-8';
 $mail->isSMTP(); 
 $mail->Host = 'smtp.yandex.ru'; 
 $mail->SMTPAuth = true;
-$mail->Username = 'olakzolkina@yandex.ru';
+$mail->Username = 'olazolkina@yandex.ru';
 $mail->Password = 'ola5071993';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
